@@ -1,0 +1,15 @@
+/Changes/1.55/Tue Feb 23 19:42:44 2016//
+/LICENSE/1.1/Sat May 17 12:32:11 2008//
+/Makefile.am/1.4/Sun Apr 14 09:43:19 2013//
+/autogen.sh/1.4/Mon May 30 15:27:30 2011//
+/configure.ac/1.10/Wed Jun 29 14:52:22 2011//
+/demo.c/1.4/Mon Nov 29 12:38:32 2010//
+/ecb.h/1.27/Mon Jan 18 11:53:09 2016//
+/eio.3/1.1/Sun May 11 13:05:10 2008//
+/eio.c/1.142/Sun May  1 17:15:45 2016//
+/eio.h/1.57/Tue Feb 23 19:42:44 2016//
+/eio.pod/1.36/Sun Jan 24 16:36:20 2016//
+/etp.c/1.11/Sun May  1 17:15:45 2016//
+/libeio.m4/1.23/Thu Jun 25 13:34:28 2015//
+/xthread.h/1.18/Mon Sep 21 08:01:00 2015//
+D
